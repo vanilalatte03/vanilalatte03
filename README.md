@@ -10,7 +10,7 @@ Java, Spring Boot를 중심으로 백엔드 개발을 학습하며 다양한 프
 <a href="https://vanilalatte.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />
 </a>
-<a href="jiho4890@gmail.com">
+<a href="mailto:jiho4890@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
