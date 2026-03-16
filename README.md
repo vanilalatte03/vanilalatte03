@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D8C3A5&height=220&section=header&text=LIM%20JIHO&fontSize=45&fontColor=4E342E&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E6D1B3,100:F5F1EA&height=220&section=header&text=Welcome%20to%20JIHO's%20GitHub!%20😎&fontSize=38&fontColor=5C4033&animation=fadeIn&fontAlignY=38" />
 
 
 
