@@ -1,5 +1,4 @@
-[![JIHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanilalatte03)](https://github.com/vanilalatte03/github-readme-stats)
-
+[![jiho's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **vanilalatte03/vanilalatte03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
