@@ -1,4 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanilalatte03)](https://github.com/vanilalatte03/github-readme-stats)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D8C3A5&height=220&section=header&text=LIM%20JIHO&fontSize=45&fontColor=4E342E&animation=fadeIn" />
+
 
 
 
