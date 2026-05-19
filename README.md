@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Status-Continuous_Learning-007396?style=for-the-badge" />
 
 
-*Java와 Spring Boot로 안정적인 백엔드 시스템을 만들어가는 개발자입니다.*
+### *Java와 Spring Boot로 안정적인 백엔드 시스템을 만들어가는 개발자입니다.*
 
 </div>
 <br/>
