@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:007396,55:6DB33F,80:2496ED,100:232F3E&height=190&section=header&text=Backend%20API%20Server:%20JIHO&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20%7C%20Spring%20Boot%20%7C%20REST%20API%20%7C%20Backend%20Developer&descAlignY=55&descSize=15)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,45:007396,75:6DB33F,100:2496ED&height=170&section=header&text=Backend%20API%20Server:%20JIHO&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Java%20%7C%20Spring%20Boot%20%7C%20REST%20API%20%7C%20Backend%20Developer&descAlignY=68&descSize=15)
 
 <img src="https://img.shields.io/badge/GET-/api/v1/profile/jiho-2496ED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/HTTP-200_OK-6DB33F?style=for-the-badge" />
@@ -108,11 +108,5 @@ Content-Type: image/svg+xml
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanilalatte03/vanilalatte03/output/github-contribution-grid-snake.svg?v=2" />
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vanilalatte03/vanilalatte03/output/github-contribution-grid-snake.svg?v=2" />
 </picture>
-
-<br/>
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,35:2496ED,70:6DB33F,100:007396&height=120&section=footer)
 
 </div>
