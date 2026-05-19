@@ -1,32 +1,118 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E6D1B3,100:F5F1EA&height=220&section=header&text=Welcome%20to%20JIHO's%20GitHub!%20😎&fontSize=38&fontColor=5C4033&animation=fadeIn&fontAlignY=38" />
+<div align="center">
 
-### 👋 About Me
-Java, Spring Boot를 중심으로 백엔드 개발을 학습하며 다양한 프로젝트 경험을 쌓고 있습니다.
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:007396,55:6DB33F,80:2496ED,100:232F3E&height=190&section=header&text=Backend%20API%20Server:%20JIHO&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20%7C%20Spring%20Boot%20%7C%20REST%20API%20%7C%20Backend%20Developer&descAlignY=55&descSize=15)
 
-### 🛠 Tech Stack
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GET-/api/v1/profile/jiho-2496ED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HTTP-200_OK-6DB33F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Continuous_Learning-007396?style=for-the-badge" />
 
-### 📚 Contact
-<a href="https://vanilalatte.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" /></a> <a href="mailto:jiho4890@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-### 🐍 Contribution Snake
+*Java와 Spring Boot로 안정적인 백엔드 시스템을 만들어가는 개발자입니다.*
+
+</div>
+<br/>
+
+## `GET /api/v1/profile/jiho`
+
+```http
+HTTP/1.1 200 OK
+Content-Type: application/json
+```
+
+```json
+{
+  "name": "JIHO",
+  "role": "Backend Developer",
+  "about": "읽기 좋은 코드와 확장 가능한 설계를 고민하고 있습니다.",
+  "focus": [
+    "Java",
+    "Spring Boot",
+    "REST API",
+    "Database",
+    "Docker",
+    "AWS"
+  ],
+  "status": "continuous_learning"
+}
+```
+
+<br/>
+
+## `GET /api/v1/skills`
+
+```http
+HTTP/1.1 200 OK
+Content-Type: application/json
+```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+</div>
+
+```json
+{
+  "language": ["Java"],
+  "backend": ["Spring Boot", "REST API"],
+  "database": ["MySQL"],
+  "devOps": ["Docker", "AWS"],
+  "tools": ["Git", "GitHub"]
+}
+```
+
+<br/>
+
+## `GET /api/v1/contact`
+
+```http
+HTTP/1.1 200 OK
+Content-Type: application/json
+```
+
+<div align="center">
+
+<a href="https://vanilalatte.tistory.com/">
+  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />
+</a>
+<a href="mailto:jiho4890@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+```json
+{
+  "blog": "https://vanilalatte.tistory.com/",
+  "email": "jiho4890@gmail.com"
+}
+```
+
+<br/>
+
+## `GET /api/v1/contributions/snake`
+
+```http
+HTTP/1.1 200 OK
+Content-Type: image/svg+xml
+```
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanilalatte03/vanilalatte03/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanilalatte03/vanilalatte03/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vanilalatte03/vanilalatte03/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<!--
-**vanilalatte03/vanilalatte03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,35:2496ED,70:6DB33F,100:007396&height=120&section=footer)
+
+</div>
