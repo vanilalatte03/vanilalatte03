@@ -4,10 +4,10 @@
 
 <img src="https://img.shields.io/badge/GET-/api/v1/profile/jiho-2496ED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/HTTP-200_OK-6DB33F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Continuous_Learning-007396?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-building_and_refactoring-007396?style=for-the-badge" />
 
 
-### *Java와 Spring Boot로 안정적인 백엔드 시스템을 만들어가는 개발자입니다.*
+### *먼저 동작하게 만들고, 기록하고, 검증하며 더 나은 구조로 다듬어갑니다.*
 
 </div>
 <br/>
@@ -23,16 +23,9 @@ Content-Type: application/json
 {
   "name": "JIHO",
   "role": "Backend Developer",
-  "about": "읽기 좋은 코드와 확장 가능한 설계를 고민하고 있습니다.",
-  "focus": [
-    "Java",
-    "Spring Boot",
-    "REST API",
-    "Database",
-    "Docker",
-    "AWS"
-  ],
-  "status": "continuous_learning"
+  "about": "기능 구현에서 끝내지 않고, 테스트·문서화·리팩토링까지 개발의 범위로 삼습니다.",
+  "motto": "Fail fast, Learn faster",
+  "status": "building_and_refactoring"
 }
 ```
 
