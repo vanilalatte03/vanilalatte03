@@ -24,7 +24,7 @@ Content-Type: application/json
   "name": "JIHO",
   "role": "Backend Developer",
   "about": "기능 구현에서 끝내지 않고, 테스트·문서화·리팩토링까지 개발의 범위로 삼습니다.",
-  "motto": "Fail fast, Learn faster",
+  "motto": "빠르게 실패하고, 더 빠르게 배우기",
   "status": "building_and_refactoring"
 }
 ```
