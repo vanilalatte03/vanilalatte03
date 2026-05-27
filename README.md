@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Status-building_and_refactoring-007396?style=for-the-badge" />
 
 
-### *먼저 동작하게 만들고, 기록하고, 검증하며 더 나은 구조로 다듬어갑니다.*
+### *실패는 빠르게, 배움은 깊게, 구조는 단단하게.*
 
 </div>
 <br/>
@@ -23,8 +23,8 @@ Content-Type: application/json
 {
   "name": "JIHO",
   "role": "Backend Developer",
-  "about": "기능 구현에서 끝내지 않고, 테스트·문서화·리팩토링까지 개발의 범위로 삼습니다.",
-  "motto": "빠르게 실패하고, 더 빠르게 배우기",
+  "about": "while (true) { code(); test(); document(); refactor(); }",
+  "motto": "Fail fast, patch fast, no rollback.",
   "status": "building_and_refactoring"
 }
 ```
