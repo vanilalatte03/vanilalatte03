@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Status-building_and_refactoring-007396?style=for-the-badge" />
 
 
-### *실패는 빠르게, 배움은 깊게, 구조는 단단하게.*
+### *시도는 빠르게, 검증은 독하게, 코드는 단단하게.*
 
 </div>
 <br/>
@@ -23,9 +23,9 @@ Content-Type: application/json
 {
   "name": "JIHO",
   "role": "Backend Developer",
-  "about": "while (true) { code(); test(); document(); refactor(); }",
-  "motto": "Fail fast, patch fast, no rollback.",
-  "status": "building_and_refactoring"
+  "about": "while (true) { code(); test(); document(); refactoring(); }",
+  "motto": "Fail fast, learn faster, rollback never.",
+  "status": "coffee_driven_development"
 }
 ```
 
