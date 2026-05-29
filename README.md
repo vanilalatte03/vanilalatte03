@@ -7,7 +7,8 @@
 <img src="https://img.shields.io/badge/Status-building_and_refactoring-007396?style=for-the-badge" />
 
 
-### *시도는 빠르게, 검증은 독하게, 코드는 단단하게.*
+### *시도는 빠르게, 검증은 집요하게, 코드는 단단하게.*
+### *요청과 응답 사이의 빈틈을 줄여가는 백엔드 개발자 임지호입니다.*
 
 </div>
 <br/>
