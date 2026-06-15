@@ -7,8 +7,7 @@
 <img src="https://img.shields.io/badge/Status-building_and_refactoring-007396?style=for-the-badge" />
 
 
-### *시도는 빠르게, 검증은 집요하게, 코드는 단단하게.*
-### *요청과 응답 사이의 빈틈을 줄여가는 백엔드 개발자 임지호입니다.*
+### 빠른 시도, 집요한 검증. 최적의 답을 향하는 개발자.
 
 </div>
 <br/>
@@ -19,6 +18,16 @@
 HTTP/1.1 200 OK
 Content-Type: application/json
 ```
+<div align="center">
+
+<a href="https://vanilalatte.tistory.com/">
+  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />
+</a>
+<a href="mailto:jiho4890@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ```json
 {
@@ -26,7 +35,11 @@ Content-Type: application/json
   "role": "Backend Developer",
   "about": "while (true) { code(); test(); document(); refactoring(); }",
   "motto": "Fail fast, learn faster, rollback never.",
-  "status": "coffee_driven_development"
+  "status": "coffee_driven_development",
+  "contact": {
+    "blog": "https://vanilalatte.tistory.com/",
+    "email": "jiho4890@gmail.com"
+  }
 }
 ```
 
@@ -58,33 +71,6 @@ Content-Type: application/json
   "database": ["MySQL"],
   "devOps": ["Docker", "AWS"],
   "tools": ["Git", "GitHub"]
-}
-```
-
-<br/>
-
-## `GET /api/v1/contact`
-
-```http
-HTTP/1.1 200 OK
-Content-Type: application/json
-```
-
-<div align="center">
-
-<a href="https://vanilalatte.tistory.com/">
-  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />
-</a>
-<a href="mailto:jiho4890@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
-```json
-{
-  "blog": "https://vanilalatte.tistory.com/",
-  "email": "jiho4890@gmail.com"
 }
 ```
 
