@@ -113,15 +113,19 @@ Content-Type: image/svg+xml
 X-Commitchi-Character: #2 nari
 ```
 
-![commitchi pet](./pet.svg)
+<p align="center">
+  <a href="https://github.com/vanilalatte03/vanilalatte03/issues/new?title=commitchi%3A%20feed">
+    <img src="./pet.svg" alt="commitchi pet" />
+  </a>
+</p>
 
 <div align="center">
 
 <a href="https://github.com/vanilalatte03/vanilalatte03/issues/new?title=commitchi%3A%20feed">
-  <img src="https://img.shields.io/badge/feed-commitchi-6DB33F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/feed-먹이주기-6DB33F?style=for-the-badge" />
 </a>
 <a href="https://github.com/vanilalatte03/vanilalatte03/issues/new?title=commitchi%3A%20play">
-  <img src="https://img.shields.io/badge/play-commitchi-2496ED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/play-놀아주기-2496ED?style=for-the-badge" />
 </a>
 
 </div>
