@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 2,
+  "active": "nari",
+  "pets": {
+    "nari": {
+      "name": "Mochi",
+      "species": "nari",
+      "isGhost": false,
+      "lockedSpecies": "",
+      "stage": "egg",
+      "bornAt": "2026-06-15T14:38:09.013Z",
+      "lastTickAt": "2026-06-15T14:38:09.013Z",
+      "fullness": 63,
+      "happiness": 76,
+      "stamina": 63,
+      "mood": "happy",
+      "celebration": {
+        "kind": "visitor",
+        "milestoneId": "visitor:play:2026-06-15:vanilalatte03",
+        "title": "신난다!",
+        "detail": "@vanilalatte03님이 같이 놀아줬어요 · 행복도 +16"
+      },
+      "celebratedMilestones": [],
+      "ageDays": 0,
+      "lastDayDate": "",
+      "lastDayCounted": 0,
+      "visitorInteractions": {
+        "vanilalatte03": {
+          "lastInteractionDate": "2026-06-15",
+          "totalInteractions": 1,
+          "feedCount": 0,
+          "playCount": 1
+        }
+      }
+    }
+  },
+  "dex": {
+    "nari": {
+      "firstSeenAt": "2026-06-15T14:38:09.013Z",
+      "maxStage": "egg"
+    }
+  }
+}
