@@ -103,4 +103,27 @@ Content-Type: image/svg+xml
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vanilalatte03/vanilalatte03/output/github-contribution-grid-snake.svg?v=3" />
 </picture>
 
+<br/>
+
+## `GET /api/v1/commitchi`
+
+```http
+HTTP/1.1 200 OK
+Content-Type: image/svg+xml
+X-Commitchi-Character: #2 nari
+```
+
+![commitchi pet](./pet.svg)
+
+<div align="center">
+
+<a href="https://github.com/vanilalatte03/vanilalatte03/issues/new?title=commitchi%3A%20feed">
+  <img src="https://img.shields.io/badge/feed-commitchi-6DB33F?style=for-the-badge" />
+</a>
+<a href="https://github.com/vanilalatte03/vanilalatte03/issues/new?title=commitchi%3A%20play">
+  <img src="https://img.shields.io/badge/play-commitchi-2496ED?style=for-the-badge" />
+</a>
+
+</div>
+
 </div>

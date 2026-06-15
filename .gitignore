@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.test-build/
+preview/
+package-lock.json
+interaction-result.json
+
+# Local/generated pet memory. The template should not ship another user's state.
+# GitHub Actions force-adds the first generated copy in each user's repo.
+pet-state.json
+
+# Full-resolution source sheets used to slice sprites — not needed at runtime.
+# The runtime only reads assets/sprites/yuki/*.png
+assets/source/
