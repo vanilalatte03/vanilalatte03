@@ -105,6 +105,15 @@ X-Commitchi-Character: #2 nari
   </a>
 </p>
 
+<details>
+<summary>📖 GET /api/v1/commitchi/dex</summary>
+
+<p align="center">
+  <img src="./dex.svg" alt="commitchi dex" />
+</p>
+
+</details>
+
 <div align="center">
 
 <a href="https://github.com/vanilalatte03/vanilalatte03/issues/new?title=commitchi%3A%20feed">
