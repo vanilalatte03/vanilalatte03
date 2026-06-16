@@ -34,7 +34,7 @@ Content-Type: application/json
   "name": "JIHO",
   "role": "Backend Developer",
   "about": "while (true) { code(); test(); document(); refactoring(); }",
-  "motto": "Fail fast, learn faster, rollback never.",
+  "motto": "Move fast, verify deeply, learn faster.",
   "status": "coffee_driven_development",
   "contact": {
     "blog": "https://vanilalatte.tistory.com/",
