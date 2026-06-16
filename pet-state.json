@@ -3,25 +3,31 @@
   "active": "nari",
   "pets": {
     "nari": {
-      "name": "바닐라떼",
+      "name": "Patch",
       "species": "nari",
       "isGhost": false,
       "lockedSpecies": "",
-      "stage": "egg",
+      "stage": "baby",
       "bornAt": "2026-06-15T14:38:09.013Z",
-      "lastTickAt": "2026-06-16T11:22:23.789Z",
+      "lastTickAt": "2026-06-16T17:05:56.294Z",
       "fullness": 100,
       "happiness": 100,
-      "stamina": 34,
+      "stamina": 46,
       "mood": "happy",
-      "celebration": null,
+      "celebration": {
+        "kind": "evolution",
+        "milestoneId": "evolution:baby",
+        "title": "아기 진화",
+        "detail": "새로운 아기 단계가 열렸어요"
+      },
       "celebratedMilestones": [
         "streak:7",
-        "streak:30"
+        "streak:30",
+        "evolution:baby"
       ],
-      "ageDays": 0,
+      "ageDays": 1,
       "lastDayDate": "2026-06-16",
-      "lastDayCounted": 55,
+      "lastDayCounted": 64,
       "visitorInteractions": {
         "vanilalatte03": {
           "lastInteractionDate": "2026-06-16",
@@ -59,7 +65,7 @@
   "dex": {
     "nari": {
       "firstSeenAt": "2026-06-15T14:38:09.013Z",
-      "maxStage": "egg"
+      "maxStage": "baby"
     }
   }
 }
