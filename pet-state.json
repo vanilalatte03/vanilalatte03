@@ -9,17 +9,12 @@
       "lockedSpecies": "",
       "stage": "baby",
       "bornAt": "2026-06-15T14:38:09.013Z",
-      "lastTickAt": "2026-06-16T17:05:56.294Z",
-      "fullness": 100,
-      "happiness": 100,
-      "stamina": 46,
+      "lastTickAt": "2026-06-16T21:09:36.134Z",
+      "fullness": 96,
+      "happiness": 99,
+      "stamina": 45,
       "mood": "happy",
-      "celebration": {
-        "kind": "evolution",
-        "milestoneId": "evolution:baby",
-        "title": "아기 진화",
-        "detail": "새로운 아기 단계가 열렸어요"
-      },
+      "celebration": null,
       "celebratedMilestones": [
         "streak:7",
         "streak:30",
