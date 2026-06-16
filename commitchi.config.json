@@ -1,3 +1,7 @@
 {
-  "character": "nari"
+  "petName": "바닐라떼",
+  "character": "nari",
+  "language": "ko",
+  "displayStage": "auto",
+  "theme": "dark"
 }
