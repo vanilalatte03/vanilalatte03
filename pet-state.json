@@ -9,12 +9,17 @@
       "lockedSpecies": "",
       "stage": "egg",
       "bornAt": "2026-06-15T14:38:09.013Z",
-      "lastTickAt": "2026-06-16T02:40:11.932Z",
+      "lastTickAt": "2026-06-16T03:02:37.569Z",
       "fullness": 100,
       "happiness": 100,
       "stamina": 28,
       "mood": "hungry",
-      "celebration": null,
+      "celebration": {
+        "kind": "visitor",
+        "milestoneId": "visitor:feed:2026-06-16:silverthunder09",
+        "title": "잘 먹었어!",
+        "detail": "@silverthunder09님이 밥을 줬어요 · 포만감 +18"
+      },
       "celebratedMilestones": [
         "streak:7",
         "streak:30"
@@ -28,6 +33,12 @@
           "totalInteractions": 2,
           "feedCount": 0,
           "playCount": 2
+        },
+        "silverthunder09": {
+          "lastInteractionDate": "2026-06-16",
+          "totalInteractions": 1,
+          "feedCount": 1,
+          "playCount": 0
         }
       }
     }

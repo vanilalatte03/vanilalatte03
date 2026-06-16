@@ -1,9 +1,28 @@
-<svg width="480" height="200" viewBox="0 0 480 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mochi, 알 Nari, 배고픔, 포만감 100%, 행복도 100%, 체력 28%, 도감 1/2">
+<svg width="480" height="200" viewBox="0 0 480 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mochi, 알 Nari, 배고픔, 포만감 100%, 행복도 100%, 체력 28%, 축하 잘 먹었어!, 도감 1/2">
   <title>Mochi — Nari 알 · 곧 부화해요</title>
   <rect x="0.5" y="0.5" width="479" height="199" rx="16" fill="#141323" stroke="#302D50"/>
   <path d="M34,27 L35.5,30.5 L39,32 L35.5,33.5 L34,37 L32.5,33.5 L29,32 L32.5,30.5 Z" fill="#F6C85F" opacity="0.62"><animate attributeName="opacity" values="0.25;0.82;0.25" dur="3.8s" repeatCount="indefinite"/></path><path d="M58,149 L59.5,152.5 L63,154 L59.5,155.5 L58,159 L56.5,155.5 L53,154 L56.5,152.5 Z" fill="#F6C85F" opacity="0.62"><animate attributeName="opacity" values="0.25;0.82;0.25" dur="4.8s" repeatCount="indefinite"/></path><path d="M165,30 L166.5,33.5 L170,35 L166.5,36.5 L165,40 L163.5,36.5 L160,35 L163.5,33.5 Z" fill="#F6C85F" opacity="0.62"><animate attributeName="opacity" values="0.25;0.82;0.25" dur="3s" repeatCount="indefinite"/></path><path d="M448,37 L449.5,40.5 L453,42 L449.5,43.5 L448,47 L446.5,43.5 L443,42 L446.5,40.5 Z" fill="#F6C85F" opacity="0.62"><animate attributeName="opacity" values="0.25;0.82;0.25" dur="3.4s" repeatCount="indefinite"/></path><path d="M430,127 L431.5,130.5 L435,132 L431.5,133.5 L430,137 L428.5,133.5 L425,132 L428.5,130.5 Z" fill="#F6C85F" opacity="0.62"><animate attributeName="opacity" values="0.25;0.82;0.25" dur="4.2s" repeatCount="indefinite"/></path>
   <circle cx="112" cy="104" r="68" fill="#2A2453" opacity="0.58"/>
   <path d="M84,52 h56 M74,68 h76 M64,84 h96 M58,100 h108 M64,116 h96 M74,132 h76 M84,148 h56" stroke="#9DB7D1" stroke-width="1" opacity="0.08"/>
+  <g aria-hidden="true">
+  <circle cx="112" cy="104" r="72" fill="none" stroke="#F6C85F" stroke-width="2" opacity="0.42">
+    <animate attributeName="r" values="62;74;62" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.18;0.52;0.18" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M50,66 L51.8,70.2 L56,72 L51.8,73.8 L50,78 L48.2,73.8 L44,72 L48.2,70.2 Z" fill="#F6C85F" opacity="0.78">
+    <animate attributeName="opacity" values="0.15;0.95;0.15" dur="1.8s" begin="0s" repeatCount="indefinite"/>
+  </path><path d="M178,72 L179.8,76.2 L184,78 L179.8,79.8 L178,84 L176.2,79.8 L172,78 L176.2,76.2 Z" fill="#F6C85F" opacity="0.78">
+    <animate attributeName="opacity" values="0.15;0.95;0.15" dur="1.8s" begin="0.35s" repeatCount="indefinite"/>
+  </path><path d="M66,134 L67.8,138.2 L72,140 L67.8,141.8 L66,146 L64.2,141.8 L60,140 L64.2,138.2 Z" fill="#F6C85F" opacity="0.78">
+    <animate attributeName="opacity" values="0.15;0.95;0.15" dur="1.8s" begin="0.7s" repeatCount="indefinite"/>
+  </path><path d="M164,142 L165.8,146.2 L170,148 L165.8,149.8 L164,154 L162.2,149.8 L158,148 L162.2,146.2 Z" fill="#F6C85F" opacity="0.78">
+    <animate attributeName="opacity" values="0.15;0.95;0.15" dur="1.8s" begin="1.05s" repeatCount="indefinite"/>
+  </path>
+</g>
+  <g aria-hidden="true">
+  <rect x="30" y="18" width="164" height="28" rx="8" fill="#F6C85F" opacity="0.94"/>
+  <text x="112" y="37" fill="#141323" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" font-weight="700" text-anchor="middle">잘 먹었어!</text>
+</g>
   <ellipse cx="112" cy="170" rx="33" ry="10" fill="#050611" opacity="0.42"/>
   <g>
     <g>
@@ -27,6 +46,5 @@
   <rect x="276" y="166" width="148" height="8" rx="4" fill="#302D50"/>
   <rect x="276" y="166" width="41" height="8" rx="4" fill="#E2A33B"/>
   <text x="448" y="175" fill="#F4F1FF" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" font-weight="600" text-anchor="end">28%</text>
-  <text x="204" y="194" fill="#AAA4D6" font-family="'Segoe UI',system-ui,sans-serif" font-size="10">다음 진화까지 1일 · 0일째</text>
-  <text x="448" y="194" fill="#AAA4D6" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" text-anchor="end">도감 1/2</text>
+  <text x="204" y="194" fill="#AAA4D6" font-family="'Segoe UI',system-ui,sans-serif" font-size="10">@silverthunder09님이 밥을 줬어요 · 포만감 +18</text>
 </svg>
