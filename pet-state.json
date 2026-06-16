@@ -9,24 +9,19 @@
       "lockedSpecies": "",
       "stage": "egg",
       "bornAt": "2026-06-15T14:38:09.013Z",
-      "lastTickAt": "2026-06-15T20:46:12.842Z",
+      "lastTickAt": "2026-06-16T01:23:30.360Z",
       "fullness": 100,
       "happiness": 100,
-      "stamina": 0,
+      "stamina": 13,
       "mood": "sick",
-      "celebration": {
-        "kind": "streak",
-        "milestoneId": "streak:30",
-        "title": "30일 연속",
-        "detail": "30일 연속 기여를 달성했어요"
-      },
+      "celebration": null,
       "celebratedMilestones": [
         "streak:7",
         "streak:30"
       ],
       "ageDays": 0,
-      "lastDayDate": "2026-06-15",
-      "lastDayCounted": 52,
+      "lastDayDate": "2026-06-16",
+      "lastDayCounted": 12,
       "visitorInteractions": {
         "vanilalatte03": {
           "lastInteractionDate": "2026-06-15",
