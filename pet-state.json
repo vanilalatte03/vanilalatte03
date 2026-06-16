@@ -9,24 +9,19 @@
       "lockedSpecies": "",
       "stage": "egg",
       "bornAt": "2026-06-15T14:38:09.013Z",
-      "lastTickAt": "2026-06-16T01:28:36.713Z",
+      "lastTickAt": "2026-06-16T02:40:11.932Z",
       "fullness": 100,
       "happiness": 100,
-      "stamina": 16,
+      "stamina": 28,
       "mood": "hungry",
-      "celebration": {
-        "kind": "visitor",
-        "milestoneId": "visitor:play:2026-06-16:vanilalatte03",
-        "title": "행복 충전!",
-        "detail": "@vanilalatte03님이 같이 놀아줬어요 · 행복도 +16"
-      },
+      "celebration": null,
       "celebratedMilestones": [
         "streak:7",
         "streak:30"
       ],
       "ageDays": 0,
       "lastDayDate": "2026-06-16",
-      "lastDayCounted": 12,
+      "lastDayCounted": 29,
       "visitorInteractions": {
         "vanilalatte03": {
           "lastInteractionDate": "2026-06-16",
