@@ -1,0 +1,20 @@
+name: commitchi
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+
+permissions: { contents: write }
+
+concurrency:
+  group: commitchi-pet-state
+  cancel-in-progress: false
+
+jobs:
+  commitchi:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vanilalatte03/commitchi@v1
+        # with: { github-token: ${{ secrets.PET_TOKEN }} }  # To count private contributions too.

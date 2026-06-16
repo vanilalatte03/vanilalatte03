@@ -1,0 +1,19 @@
+name: commitchi-visitor
+
+on:
+  issues:
+    types: [opened]
+
+permissions: { contents: write, issues: write }
+
+concurrency:
+  group: commitchi-pet-state
+  cancel-in-progress: false
+
+jobs:
+  visitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vanilalatte03/commitchi@v1
+        with: { mode: visitor }
