@@ -96,7 +96,6 @@ Content-Type: image/svg+xml
 ```http
 HTTP/1.1 200 OK
 Content-Type: image/svg+xml
-X-Commitchi-Character: #2 nari
 ```
 
 <p align="center">
@@ -104,15 +103,6 @@ X-Commitchi-Character: #2 nari
     <img src="./pet.svg" alt="commitchi pet" />
   </a>
 </p>
-
-<details>
-<summary>📖 GET /api/v1/commitchi/dex</summary>
-
-<p align="center">
-  <img src="./dex.svg" alt="commitchi dex" />
-</p>
-
-</details>
 
 <div align="center">
 
@@ -123,6 +113,13 @@ X-Commitchi-Character: #2 nari
   <img src="https://img.shields.io/badge/play-놀아주기-2496ED?style=for-the-badge" />
 </a>
 
-</div>
+<details>
+<summary> 컬렉션 </summary>
+
+<p align="center">
+  <img src="./dex.svg" alt="commitchi dex" />
+</p>
+
+</details>
 
 </div>
