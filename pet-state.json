@@ -9,24 +9,19 @@
       "lockedSpecies": "",
       "stage": "egg",
       "bornAt": "2026-06-15T14:38:09.013Z",
-      "lastTickAt": "2026-06-16T07:12:54.283Z",
+      "lastTickAt": "2026-06-16T11:22:23.789Z",
       "fullness": 100,
       "happiness": 100,
-      "stamina": 29,
-      "mood": "sick",
-      "celebration": {
-        "kind": "visitor",
-        "milestoneId": "visitor:play:2026-06-16:gone09-sketch",
-        "title": "신난다!",
-        "detail": "@gone09-sketch님이 같이 놀아줬어요 · 행복도 +8"
-      },
+      "stamina": 34,
+      "mood": "happy",
+      "celebration": null,
       "celebratedMilestones": [
         "streak:7",
         "streak:30"
       ],
       "ageDays": 0,
       "lastDayDate": "2026-06-16",
-      "lastDayCounted": 29,
+      "lastDayCounted": 55,
       "visitorInteractions": {
         "vanilalatte03": {
           "lastInteractionDate": "2026-06-16",
