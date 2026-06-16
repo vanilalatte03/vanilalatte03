@@ -9,16 +9,16 @@
       "lockedSpecies": "",
       "stage": "egg",
       "bornAt": "2026-06-15T14:38:09.013Z",
-      "lastTickAt": "2026-06-16T06:39:32.675Z",
+      "lastTickAt": "2026-06-16T07:12:54.283Z",
       "fullness": 100,
       "happiness": 100,
-      "stamina": 27,
+      "stamina": 29,
       "mood": "sick",
       "celebration": {
         "kind": "visitor",
-        "milestoneId": "visitor:feed:2026-06-16:inan0226",
-        "title": "잘 먹었어!",
-        "detail": "@inan0226님이 밥을 줬어요 · 포만감 +10"
+        "milestoneId": "visitor:play:2026-06-16:gone09-sketch",
+        "title": "신난다!",
+        "detail": "@gone09-sketch님이 같이 놀아줬어요 · 행복도 +8"
       },
       "celebratedMilestones": [
         "streak:7",
@@ -51,6 +51,12 @@
           "totalInteractions": 1,
           "feedCount": 1,
           "playCount": 0
+        },
+        "gone09-sketch": {
+          "lastInteractionDate": "2026-06-16",
+          "totalInteractions": 1,
+          "feedCount": 0,
+          "playCount": 1
         }
       }
     }
