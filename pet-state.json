@@ -9,15 +9,15 @@
       "lockedSpecies": "",
       "stage": "baby",
       "bornAt": "2026-06-15T14:38:09.013Z",
-      "lastTickAt": "2026-06-17T15:50:12.848Z",
-      "fullness": 100,
-      "happiness": 100,
-      "stamina": 69,
+      "lastTickAt": "2026-06-17T20:21:26.210Z",
+      "fullness": 96,
+      "happiness": 98,
+      "stamina": 67,
       "mood": "happy",
       "note": {
-        "code": "happy_collab",
+        "code": "content",
         "days": 0,
-        "at": "2026-06-17T15:50:12.848Z"
+        "at": "2026-06-17T20:21:26.210Z"
       },
       "log": [
         {
@@ -29,6 +29,11 @@
           "code": "happy_collab",
           "days": 0,
           "at": "2026-06-17T04:45:53.562Z"
+        },
+        {
+          "code": "content",
+          "days": 0,
+          "at": "2026-06-17T20:21:26.210Z"
         }
       ],
       "celebration": null,
