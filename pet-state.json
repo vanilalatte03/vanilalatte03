@@ -9,12 +9,29 @@
       "lockedSpecies": "",
       "stage": "baby",
       "bornAt": "2026-06-15T14:38:09.013Z",
-      "lastTickAt": "2026-06-16T21:09:36.134Z",
-      "fullness": 96,
+      "lastTickAt": "2026-06-17T03:32:12.423Z",
+      "fullness": 100,
       "happiness": 99,
-      "stamina": 45,
+      "stamina": 43,
       "mood": "happy",
-      "celebration": null,
+      "note": {
+        "code": "content",
+        "days": 0,
+        "at": "2026-06-17T03:32:12.423Z"
+      },
+      "log": [
+        {
+          "code": "content",
+          "days": 0,
+          "at": "2026-06-17T03:32:12.423Z"
+        }
+      ],
+      "celebration": {
+        "kind": "visitor",
+        "milestoneId": "visitor:feed:2026-06-17:silverthunder09",
+        "title": "냠냠!",
+        "detail": "@silverthunder09님이 밥을 줬어요 · 포만감 +10"
+      },
       "celebratedMilestones": [
         "streak:7",
         "streak:30",
@@ -31,9 +48,9 @@
           "playCount": 2
         },
         "silverthunder09": {
-          "lastInteractionDate": "2026-06-16",
-          "totalInteractions": 1,
-          "feedCount": 1,
+          "lastInteractionDate": "2026-06-17",
+          "totalInteractions": 2,
+          "feedCount": 2,
           "playCount": 0
         },
         "shallenge37": {
