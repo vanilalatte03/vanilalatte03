@@ -9,15 +9,15 @@
       "lockedSpecies": "",
       "stage": "baby",
       "bornAt": "2026-06-15T14:38:09.013Z",
-      "lastTickAt": "2026-06-17T11:07:15.811Z",
+      "lastTickAt": "2026-06-17T15:50:12.848Z",
       "fullness": 100,
       "happiness": 100,
-      "stamina": 53,
+      "stamina": 69,
       "mood": "happy",
       "note": {
         "code": "happy_collab",
         "days": 0,
-        "at": "2026-06-17T11:07:15.811Z"
+        "at": "2026-06-17T15:50:12.848Z"
       },
       "log": [
         {
@@ -37,9 +37,9 @@
         "streak:30",
         "evolution:baby"
       ],
-      "ageDays": 1,
+      "ageDays": 2,
       "lastDayDate": "2026-06-17",
-      "lastDayCounted": 37,
+      "lastDayCounted": 44,
       "visitorInteractions": {
         "vanilalatte03": {
           "lastInteractionDate": "2026-06-16",
