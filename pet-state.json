@@ -9,15 +9,15 @@
       "lockedSpecies": "",
       "stage": "child",
       "bornAt": "2026-06-15T14:38:09.013Z",
-      "lastTickAt": "2026-06-19T04:58:01.703Z",
-      "fullness": 83,
-      "happiness": 93,
-      "stamina": 93,
+      "lastTickAt": "2026-06-19T08:55:07.715Z",
+      "fullness": 89,
+      "happiness": 94,
+      "stamina": 92,
       "mood": "happy",
       "note": {
         "code": "content",
-        "days": 1,
-        "at": "2026-06-19T04:58:01.703Z"
+        "days": 0,
+        "at": "2026-06-19T08:55:07.715Z"
       },
       "log": [
         {
@@ -46,7 +46,12 @@
           "at": "2026-06-18T15:38:38.656Z"
         }
       ],
-      "celebration": null,
+      "celebration": {
+        "kind": "visitor",
+        "milestoneId": "visitor:feed:2026-06-19:inan0226",
+        "title": "냠냠!",
+        "detail": "@inan0226님이 밥을 줬어요 · 포만감 +10"
+      },
       "celebratedMilestones": [
         "streak:7",
         "streak:30",
@@ -76,9 +81,9 @@
           "playCount": 0
         },
         "inan0226": {
-          "lastInteractionDate": "2026-06-16",
-          "totalInteractions": 1,
-          "feedCount": 1,
+          "lastInteractionDate": "2026-06-19",
+          "totalInteractions": 2,
+          "feedCount": 2,
           "playCount": 0
         },
         "gone09-sketch": {
