@@ -7,24 +7,19 @@
       "species": "nari",
       "isGhost": false,
       "lockedSpecies": "",
-      "stage": "child",
+      "stage": "teen",
       "bornAt": "2026-06-15T14:38:09.013Z",
-      "lastTickAt": "2026-06-22T12:15:16.829Z",
-      "fullness": 100,
-      "happiness": 100,
-      "stamina": 100,
+      "lastTickAt": "2026-06-22T20:55:09.622Z",
+      "fullness": 92,
+      "happiness": 97,
+      "stamina": 97,
       "mood": "happy",
       "note": {
-        "code": "happy_collab",
+        "code": "content",
         "days": 0,
-        "at": "2026-06-22T12:15:16.829Z"
+        "at": "2026-06-22T20:55:09.622Z"
       },
       "log": [
-        {
-          "code": "content",
-          "days": 0,
-          "at": "2026-06-17T20:21:26.210Z"
-        },
         {
           "code": "happy_collab",
           "days": 0,
@@ -59,16 +54,27 @@
           "code": "happy_collab",
           "days": 0,
           "at": "2026-06-21T09:57:57.269Z"
+        },
+        {
+          "code": "content",
+          "days": 0,
+          "at": "2026-06-22T20:55:09.622Z"
         }
       ],
-      "celebration": null,
+      "celebration": {
+        "kind": "evolution",
+        "milestoneId": "evolution:teen",
+        "title": "청소년 진화",
+        "detail": "새로운 청소년 단계가 열렸어요"
+      },
       "celebratedMilestones": [
         "streak:7",
         "streak:30",
         "evolution:baby",
-        "evolution:child"
+        "evolution:child",
+        "evolution:teen"
       ],
-      "ageDays": 6,
+      "ageDays": 7,
       "lastDayDate": "2026-06-22",
       "lastDayCounted": 7,
       "visitorInteractions": {
@@ -108,7 +114,7 @@
   "dex": {
     "nari": {
       "firstSeenAt": "2026-06-15T14:38:09.013Z",
-      "maxStage": "child"
+      "maxStage": "teen"
     }
   }
 }
