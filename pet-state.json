@@ -9,7 +9,7 @@
       "lockedSpecies": "",
       "stage": "teen",
       "bornAt": "2026-06-15T14:38:09.013Z",
-      "lastTickAt": "2026-06-24T19:53:55.106Z",
+      "lastTickAt": "2026-06-25T04:04:35.211Z",
       "fullness": 100,
       "happiness": 100,
       "stamina": 100,
@@ -17,7 +17,7 @@
       "note": {
         "code": "happy_collab",
         "days": 0,
-        "at": "2026-06-24T19:53:55.106Z"
+        "at": "2026-06-25T04:04:35.211Z"
       },
       "log": [
         {
@@ -70,8 +70,8 @@
         "evolution:teen"
       ],
       "ageDays": 9,
-      "lastDayDate": "2026-06-24",
-      "lastDayCounted": 31,
+      "lastDayDate": "2026-06-25",
+      "lastDayCounted": 32,
       "visitorInteractions": {
         "vanilalatte03": {
           "lastInteractionDate": "2026-06-16",
