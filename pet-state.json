@@ -9,22 +9,17 @@
       "lockedSpecies": "",
       "stage": "teen",
       "bornAt": "2026-06-15T14:38:09.013Z",
-      "lastTickAt": "2026-06-25T05:46:30.557Z",
+      "lastTickAt": "2026-06-25T09:33:03.409Z",
       "fullness": 100,
       "happiness": 100,
       "stamina": 100,
       "mood": "happy",
       "note": {
-        "code": "content",
+        "code": "happy_collab",
         "days": 0,
-        "at": "2026-06-25T05:46:30.557Z"
+        "at": "2026-06-25T09:33:03.409Z"
       },
       "log": [
-        {
-          "code": "happy_collab",
-          "days": 0,
-          "at": "2026-06-20T14:15:38.271Z"
-        },
         {
           "code": "content",
           "days": 1,
@@ -59,14 +54,14 @@
           "code": "content",
           "days": 0,
           "at": "2026-06-25T05:46:30.557Z"
+        },
+        {
+          "code": "happy_collab",
+          "days": 0,
+          "at": "2026-06-25T09:33:03.409Z"
         }
       ],
-      "celebration": {
-        "kind": "visitor",
-        "milestoneId": "visitor:play:2026-06-25:shallenge37",
-        "title": "신난다!",
-        "detail": "@shallenge37님이 같이 놀아줬어요 · 행복도 +8"
-      },
+      "celebration": null,
       "celebratedMilestones": [
         "streak:7",
         "streak:30",
@@ -76,7 +71,7 @@
       ],
       "ageDays": 9,
       "lastDayDate": "2026-06-25",
-      "lastDayCounted": 32,
+      "lastDayCounted": 58,
       "visitorInteractions": {
         "vanilalatte03": {
           "lastInteractionDate": "2026-06-16",
