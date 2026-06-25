@@ -9,22 +9,17 @@
       "lockedSpecies": "",
       "stage": "teen",
       "bornAt": "2026-06-15T14:38:09.013Z",
-      "lastTickAt": "2026-06-25T04:04:35.211Z",
+      "lastTickAt": "2026-06-25T05:46:30.557Z",
       "fullness": 100,
       "happiness": 100,
       "stamina": 100,
       "mood": "happy",
       "note": {
-        "code": "happy_collab",
+        "code": "content",
         "days": 0,
-        "at": "2026-06-25T04:04:35.211Z"
+        "at": "2026-06-25T05:46:30.557Z"
       },
       "log": [
-        {
-          "code": "content",
-          "days": 0,
-          "at": "2026-06-19T15:31:48.449Z"
-        },
         {
           "code": "happy_collab",
           "days": 0,
@@ -59,9 +54,19 @@
           "code": "happy_collab",
           "days": 0,
           "at": "2026-06-24T09:40:40.114Z"
+        },
+        {
+          "code": "content",
+          "days": 0,
+          "at": "2026-06-25T05:46:30.557Z"
         }
       ],
-      "celebration": null,
+      "celebration": {
+        "kind": "visitor",
+        "milestoneId": "visitor:play:2026-06-25:shallenge37",
+        "title": "신난다!",
+        "detail": "@shallenge37님이 같이 놀아줬어요 · 행복도 +8"
+      },
       "celebratedMilestones": [
         "streak:7",
         "streak:30",
@@ -86,10 +91,10 @@
           "playCount": 0
         },
         "shallenge37": {
-          "lastInteractionDate": "2026-06-16",
-          "totalInteractions": 1,
+          "lastInteractionDate": "2026-06-25",
+          "totalInteractions": 2,
           "feedCount": 1,
-          "playCount": 0
+          "playCount": 1
         },
         "inan0226": {
           "lastInteractionDate": "2026-06-19",
