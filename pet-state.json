@@ -6,10 +6,10 @@
       "name": "Patch",
       "species": "nari",
       "isGhost": false,
-      "lockedSpecies": "",
-      "stage": "teen",
+      "lockedSpecies": "nari",
+      "stage": "adult",
       "bornAt": "2026-06-15T14:38:09.013Z",
-      "lastTickAt": "2026-06-29T11:10:46.702Z",
+      "lastTickAt": "2026-06-29T15:59:16.681Z",
       "fullness": 100,
       "happiness": 100,
       "stamina": 100,
@@ -17,7 +17,7 @@
       "note": {
         "code": "happy_collab",
         "days": 0,
-        "at": "2026-06-29T11:10:46.702Z"
+        "at": "2026-06-29T15:59:16.681Z"
       },
       "log": [
         {
@@ -61,17 +61,23 @@
           "at": "2026-06-25T09:33:03.409Z"
         }
       ],
-      "celebration": null,
+      "celebration": {
+        "kind": "evolution",
+        "milestoneId": "evolution:adult",
+        "title": "성체 진화",
+        "detail": "새로운 성체 단계가 열렸어요"
+      },
       "celebratedMilestones": [
         "streak:7",
         "streak:30",
         "evolution:baby",
         "evolution:child",
-        "evolution:teen"
+        "evolution:teen",
+        "evolution:adult"
       ],
-      "ageDays": 13,
+      "ageDays": 14,
       "lastDayDate": "2026-06-29",
-      "lastDayCounted": 31,
+      "lastDayCounted": 34,
       "visitorInteractions": {
         "vanilalatte03": {
           "lastInteractionDate": "2026-06-16",
@@ -109,7 +115,7 @@
   "dex": {
     "nari": {
       "firstSeenAt": "2026-06-15T14:38:09.013Z",
-      "maxStage": "teen"
+      "maxStage": "adult"
     }
   }
 }
