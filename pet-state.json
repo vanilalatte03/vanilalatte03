@@ -9,7 +9,7 @@
       "lockedSpecies": "nari",
       "stage": "adult",
       "bornAt": "2026-06-15T14:38:09.013Z",
-      "lastTickAt": "2026-06-30T14:30:31.890Z",
+      "lastTickAt": "2026-06-30T20:05:26.949Z",
       "fullness": 100,
       "happiness": 100,
       "stamina": 100,
@@ -17,7 +17,7 @@
       "note": {
         "code": "happy_collab",
         "days": 0,
-        "at": "2026-06-30T14:30:31.890Z"
+        "at": "2026-06-30T20:05:26.949Z"
       },
       "log": [
         {
@@ -70,9 +70,9 @@
         "evolution:teen",
         "evolution:adult"
       ],
-      "ageDays": 14,
+      "ageDays": 15,
       "lastDayDate": "2026-06-30",
-      "lastDayCounted": 32,
+      "lastDayCounted": 34,
       "visitorInteractions": {
         "vanilalatte03": {
           "lastInteractionDate": "2026-06-16",
