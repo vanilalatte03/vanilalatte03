@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "active": "nari",
+  "active": "yoru",
   "pets": {
     "nari": {
       "name": "Patch",
@@ -105,12 +105,55 @@
           "playCount": 1
         }
       }
+    },
+    "yoru": {
+      "name": "Patch",
+      "species": "yoru",
+      "isGhost": false,
+      "lockedSpecies": "",
+      "stage": "egg",
+      "bornAt": "2026-07-01T20:02:57.677Z",
+      "lastTickAt": "2026-07-01T20:02:57.677Z",
+      "fullness": 100,
+      "happiness": 100,
+      "stamina": 66,
+      "mood": "happy",
+      "note": {
+        "code": "happy_collab",
+        "days": 0,
+        "at": "2026-07-01T20:02:57.677Z"
+      },
+      "log": [
+        {
+          "code": "happy_collab",
+          "days": 0,
+          "at": "2026-07-01T20:02:57.677Z"
+        }
+      ],
+      "celebration": {
+        "kind": "streak",
+        "milestoneId": "streak:30",
+        "title": "30일 연속",
+        "detail": "30일 연속 기여를 달성했어요"
+      },
+      "celebratedMilestones": [
+        "streak:7",
+        "streak:30"
+      ],
+      "ageDays": 0,
+      "lastDayDate": "2026-07-01",
+      "lastDayCounted": 45,
+      "visitorInteractions": {}
     }
   },
   "dex": {
     "nari": {
       "firstSeenAt": "2026-06-15T14:38:09.013Z",
       "maxStage": "adult"
+    },
+    "yoru": {
+      "firstSeenAt": "2026-07-01T20:02:57.677Z",
+      "maxStage": "egg"
     }
   }
 }
