@@ -113,15 +113,15 @@
       "lockedSpecies": "",
       "stage": "egg",
       "bornAt": "2026-07-01T20:02:57.677Z",
-      "lastTickAt": "2026-07-01T20:02:57.677Z",
+      "lastTickAt": "2026-07-02T04:01:43.357Z",
       "fullness": 100,
       "happiness": 100,
-      "stamina": 66,
+      "stamina": 71,
       "mood": "happy",
       "note": {
         "code": "happy_collab",
         "days": 0,
-        "at": "2026-07-01T20:02:57.677Z"
+        "at": "2026-07-02T04:01:43.357Z"
       },
       "log": [
         {
@@ -130,19 +130,14 @@
           "at": "2026-07-01T20:02:57.677Z"
         }
       ],
-      "celebration": {
-        "kind": "streak",
-        "milestoneId": "streak:30",
-        "title": "30일 연속",
-        "detail": "30일 연속 기여를 달성했어요"
-      },
+      "celebration": null,
       "celebratedMilestones": [
         "streak:7",
         "streak:30"
       ],
       "ageDays": 0,
-      "lastDayDate": "2026-07-01",
-      "lastDayCounted": 45,
+      "lastDayDate": "2026-07-02",
+      "lastDayCounted": 12,
       "visitorInteractions": {}
     }
   },
