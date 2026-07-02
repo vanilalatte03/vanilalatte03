@@ -113,15 +113,15 @@
       "lockedSpecies": "",
       "stage": "egg",
       "bornAt": "2026-07-01T20:02:57.677Z",
-      "lastTickAt": "2026-07-02T09:22:24.368Z",
+      "lastTickAt": "2026-07-02T14:14:00.616Z",
       "fullness": 100,
       "happiness": 100,
-      "stamina": 75,
+      "stamina": 93,
       "mood": "happy",
       "note": {
         "code": "happy_collab",
         "days": 0,
-        "at": "2026-07-02T09:22:24.368Z"
+        "at": "2026-07-02T14:14:00.616Z"
       },
       "log": [
         {
@@ -137,7 +137,7 @@
       ],
       "ageDays": 0,
       "lastDayDate": "2026-07-02",
-      "lastDayCounted": 32,
+      "lastDayCounted": 38,
       "visitorInteractions": {}
     }
   },
