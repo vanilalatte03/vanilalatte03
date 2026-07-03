@@ -113,15 +113,15 @@
       "lockedSpecies": "",
       "stage": "baby",
       "bornAt": "2026-07-01T20:02:57.677Z",
-      "lastTickAt": "2026-07-03T03:47:01.730Z",
-      "fullness": 100,
-      "happiness": 100,
-      "stamina": 100,
+      "lastTickAt": "2026-07-03T09:27:22.172Z",
+      "fullness": 95,
+      "happiness": 98,
+      "stamina": 98,
       "mood": "happy",
       "note": {
-        "code": "happy_collab",
+        "code": "content",
         "days": 0,
-        "at": "2026-07-03T03:47:01.730Z"
+        "at": "2026-07-03T09:27:22.172Z"
       },
       "log": [
         {
@@ -138,14 +138,14 @@
           "code": "happy_collab",
           "days": 0,
           "at": "2026-07-03T03:47:01.730Z"
+        },
+        {
+          "code": "content",
+          "days": 0,
+          "at": "2026-07-03T09:27:22.172Z"
         }
       ],
-      "celebration": {
-        "kind": "evolution",
-        "milestoneId": "evolution:baby",
-        "title": "아기 진화",
-        "detail": "새로운 아기 단계가 열렸어요"
-      },
+      "celebration": null,
       "celebratedMilestones": [
         "streak:7",
         "streak:30",
