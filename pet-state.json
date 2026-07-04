@@ -113,15 +113,15 @@
       "lockedSpecies": "",
       "stage": "baby",
       "bornAt": "2026-07-01T20:02:57.677Z",
-      "lastTickAt": "2026-07-04T08:44:43.852Z",
-      "fullness": 74,
-      "happiness": 89,
-      "stamina": 89,
+      "lastTickAt": "2026-07-04T13:45:38.584Z",
+      "fullness": 69,
+      "happiness": 87,
+      "stamina": 87,
       "mood": "happy",
       "note": {
         "code": "content",
         "days": 1,
-        "at": "2026-07-04T08:44:43.852Z"
+        "at": "2026-07-04T13:45:38.584Z"
       },
       "log": [
         {
