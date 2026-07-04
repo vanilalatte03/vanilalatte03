@@ -113,15 +113,15 @@
       "lockedSpecies": "",
       "stage": "baby",
       "bornAt": "2026-07-01T20:02:57.677Z",
-      "lastTickAt": "2026-07-03T19:37:33.547Z",
-      "fullness": 86,
-      "happiness": 94,
-      "stamina": 94,
+      "lastTickAt": "2026-07-04T03:39:03.855Z",
+      "fullness": 79,
+      "happiness": 91,
+      "stamina": 91,
       "mood": "happy",
       "note": {
         "code": "content",
-        "days": 0,
-        "at": "2026-07-03T19:37:33.547Z"
+        "days": 1,
+        "at": "2026-07-04T03:39:03.855Z"
       },
       "log": [
         {
@@ -151,9 +151,9 @@
         "streak:30",
         "evolution:baby"
       ],
-      "ageDays": 1,
-      "lastDayDate": "2026-07-03",
-      "lastDayCounted": 1,
+      "ageDays": 2,
+      "lastDayDate": "2026-07-04",
+      "lastDayCounted": 0,
       "visitorInteractions": {}
     }
   },
