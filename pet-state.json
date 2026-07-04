@@ -113,15 +113,15 @@
       "lockedSpecies": "",
       "stage": "baby",
       "bornAt": "2026-07-01T20:02:57.677Z",
-      "lastTickAt": "2026-07-04T13:45:38.584Z",
-      "fullness": 69,
-      "happiness": 87,
+      "lastTickAt": "2026-07-04T14:01:58.111Z",
+      "fullness": 79,
+      "happiness": 89,
       "stamina": 87,
       "mood": "happy",
       "note": {
         "code": "content",
-        "days": 1,
-        "at": "2026-07-04T13:45:38.584Z"
+        "days": 0,
+        "at": "2026-07-04T14:01:58.111Z"
       },
       "log": [
         {
@@ -145,7 +145,12 @@
           "at": "2026-07-03T09:27:22.172Z"
         }
       ],
-      "celebration": null,
+      "celebration": {
+        "kind": "visitor",
+        "milestoneId": "visitor:feed:2026-07-04:vanilalatte03",
+        "title": "잘 먹었어!",
+        "detail": "@vanilalatte03님이 밥을 줬어요 · 포만감 +10"
+      },
       "celebratedMilestones": [
         "streak:7",
         "streak:30",
@@ -154,7 +159,14 @@
       "ageDays": 2,
       "lastDayDate": "2026-07-04",
       "lastDayCounted": 0,
-      "visitorInteractions": {}
+      "visitorInteractions": {
+        "vanilalatte03": {
+          "lastInteractionDate": "2026-07-04",
+          "totalInteractions": 1,
+          "feedCount": 1,
+          "playCount": 0
+        }
+      }
     }
   },
   "dex": {
