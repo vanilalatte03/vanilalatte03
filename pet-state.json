@@ -113,15 +113,15 @@
       "lockedSpecies": "",
       "stage": "child",
       "bornAt": "2026-07-01T20:02:57.677Z",
-      "lastTickAt": "2026-07-05T03:57:50.932Z",
-      "fullness": 90,
-      "happiness": 95,
-      "stamina": 97,
+      "lastTickAt": "2026-07-05T09:13:39.075Z",
+      "fullness": 85,
+      "happiness": 93,
+      "stamina": 95,
       "mood": "happy",
       "note": {
         "code": "content",
         "days": 1,
-        "at": "2026-07-05T03:57:50.932Z"
+        "at": "2026-07-05T09:13:39.075Z"
       },
       "log": [
         {
@@ -155,12 +155,7 @@
           "at": "2026-07-05T03:57:50.932Z"
         }
       ],
-      "celebration": {
-        "kind": "evolution",
-        "milestoneId": "evolution:child",
-        "title": "어린이 진화",
-        "detail": "새로운 어린이 단계가 열렸어요"
-      },
+      "celebration": null,
       "celebratedMilestones": [
         "streak:7",
         "streak:30",
