@@ -111,24 +111,19 @@
       "species": "yoru",
       "isGhost": false,
       "lockedSpecies": "",
-      "stage": "child",
+      "stage": "teen",
       "bornAt": "2026-07-01T20:02:57.677Z",
-      "lastTickAt": "2026-07-08T19:41:25.784Z",
-      "fullness": 52,
-      "happiness": 82,
-      "stamina": 82,
-      "mood": "happy",
+      "lastTickAt": "2026-07-09T03:49:06.229Z",
+      "fullness": 45,
+      "happiness": 79,
+      "stamina": 79,
+      "mood": "hungry",
       "note": {
-        "code": "content",
-        "days": 2,
-        "at": "2026-07-08T19:41:25.784Z"
+        "code": "hungry",
+        "days": 3,
+        "at": "2026-07-09T03:49:06.229Z"
       },
       "log": [
-        {
-          "code": "happy_collab",
-          "days": 0,
-          "at": "2026-07-01T20:02:57.677Z"
-        },
         {
           "code": "content",
           "days": 0,
@@ -163,17 +158,28 @@
           "code": "content",
           "days": 0,
           "at": "2026-07-06T20:05:34.716Z"
+        },
+        {
+          "code": "hungry",
+          "days": 3,
+          "at": "2026-07-09T03:49:06.229Z"
         }
       ],
-      "celebration": null,
+      "celebration": {
+        "kind": "evolution",
+        "milestoneId": "evolution:teen",
+        "title": "청소년 진화",
+        "detail": "새로운 청소년 단계가 열렸어요"
+      },
       "celebratedMilestones": [
         "streak:7",
         "streak:30",
         "evolution:baby",
-        "evolution:child"
+        "evolution:child",
+        "evolution:teen"
       ],
-      "ageDays": 6,
-      "lastDayDate": "2026-07-08",
+      "ageDays": 7,
+      "lastDayDate": "2026-07-09",
       "lastDayCounted": 0,
       "visitorInteractions": {
         "vanilalatte03": {
@@ -192,7 +198,7 @@
     },
     "yoru": {
       "firstSeenAt": "2026-07-01T20:02:57.677Z",
-      "maxStage": "child"
+      "maxStage": "teen"
     }
   }
 }
