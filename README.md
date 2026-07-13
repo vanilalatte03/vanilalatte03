@@ -23,6 +23,9 @@ Content-Type: application/json
 <a href="https://vanilalatte.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />
 </a>
+<a href="https://jh-second-brain.pages.dev/">
+  <img src="https://img.shields.io/badge/Second_Brain-8B5CF6?style=for-the-badge&logo=readme&logoColor=white" />
+</a>
 <a href="mailto:jiho4890@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -38,6 +41,7 @@ Content-Type: application/json
   "status": "coffee_driven_development",
   "contact": {
     "blog": "https://vanilalatte.tistory.com/",
+    "secondBrain": "https://jh-second-brain.pages.dev/",
     "email": "jiho4890@gmail.com"
   }
 }
