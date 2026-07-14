@@ -113,22 +113,17 @@
       "lockedSpecies": "",
       "stage": "teen",
       "bornAt": "2026-07-01T20:02:57.677Z",
-      "lastTickAt": "2026-07-14T13:56:38.765Z",
-      "fullness": 100,
-      "happiness": 100,
-      "stamina": 68,
+      "lastTickAt": "2026-07-14T19:26:45.295Z",
+      "fullness": 95,
+      "happiness": 98,
+      "stamina": 66,
       "mood": "happy",
       "note": {
-        "code": "happy_collab",
+        "code": "content",
         "days": 0,
-        "at": "2026-07-14T13:56:38.765Z"
+        "at": "2026-07-14T19:26:45.295Z"
       },
       "log": [
-        {
-          "code": "content",
-          "days": 0,
-          "at": "2026-07-10T19:40:10.820Z"
-        },
         {
           "code": "happy_collab",
           "days": 0,
@@ -163,6 +158,11 @@
           "code": "happy_collab",
           "days": 0,
           "at": "2026-07-14T02:53:14.261Z"
+        },
+        {
+          "code": "content",
+          "days": 0,
+          "at": "2026-07-14T19:26:45.295Z"
         }
       ],
       "celebration": null,
