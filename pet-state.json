@@ -113,22 +113,17 @@
       "lockedSpecies": "",
       "stage": "teen",
       "bornAt": "2026-07-01T20:02:57.677Z",
-      "lastTickAt": "2026-07-14T19:26:45.295Z",
-      "fullness": 95,
-      "happiness": 98,
-      "stamina": 66,
+      "lastTickAt": "2026-07-15T02:51:43.291Z",
+      "fullness": 100,
+      "happiness": 100,
+      "stamina": 75,
       "mood": "happy",
       "note": {
-        "code": "content",
+        "code": "happy_collab",
         "days": 0,
-        "at": "2026-07-14T19:26:45.295Z"
+        "at": "2026-07-15T02:51:43.291Z"
       },
       "log": [
-        {
-          "code": "happy_collab",
-          "days": 0,
-          "at": "2026-07-11T03:16:44.292Z"
-        },
         {
           "code": "content",
           "days": 0,
@@ -163,6 +158,11 @@
           "code": "content",
           "days": 0,
           "at": "2026-07-14T19:26:45.295Z"
+        },
+        {
+          "code": "happy_collab",
+          "days": 0,
+          "at": "2026-07-15T02:51:43.291Z"
         }
       ],
       "celebration": null,
@@ -173,9 +173,9 @@
         "evolution:child",
         "evolution:teen"
       ],
-      "ageDays": 12,
-      "lastDayDate": "2026-07-14",
-      "lastDayCounted": 8,
+      "ageDays": 13,
+      "lastDayDate": "2026-07-15",
+      "lastDayCounted": 1,
       "visitorInteractions": {
         "vanilalatte03": {
           "lastInteractionDate": "2026-07-04",
