@@ -110,25 +110,20 @@
       "name": "Patch",
       "species": "yoru",
       "isGhost": false,
-      "lockedSpecies": "",
-      "stage": "teen",
+      "lockedSpecies": "yoru",
+      "stage": "adult",
       "bornAt": "2026-07-01T20:02:57.677Z",
-      "lastTickAt": "2026-07-15T19:19:19.030Z",
-      "fullness": 95,
-      "happiness": 98,
-      "stamina": 87,
+      "lastTickAt": "2026-07-16T03:12:53.479Z",
+      "fullness": 100,
+      "happiness": 100,
+      "stamina": 96,
       "mood": "happy",
       "note": {
-        "code": "content",
+        "code": "happy_collab",
         "days": 0,
-        "at": "2026-07-15T19:19:19.030Z"
+        "at": "2026-07-16T03:12:53.479Z"
       },
       "log": [
-        {
-          "code": "happy_collab",
-          "days": 0,
-          "at": "2026-07-11T19:11:50.754Z"
-        },
         {
           "code": "sick_exhausted",
           "days": 0,
@@ -163,19 +158,30 @@
           "code": "content",
           "days": 0,
           "at": "2026-07-15T19:19:19.030Z"
+        },
+        {
+          "code": "happy_collab",
+          "days": 0,
+          "at": "2026-07-16T03:12:53.479Z"
         }
       ],
-      "celebration": null,
+      "celebration": {
+        "kind": "evolution",
+        "milestoneId": "evolution:adult",
+        "title": "성체 진화",
+        "detail": "새로운 성체 단계가 열렸어요"
+      },
       "celebratedMilestones": [
         "streak:7",
         "streak:30",
         "evolution:baby",
         "evolution:child",
-        "evolution:teen"
+        "evolution:teen",
+        "evolution:adult"
       ],
-      "ageDays": 13,
-      "lastDayDate": "2026-07-15",
-      "lastDayCounted": 12,
+      "ageDays": 14,
+      "lastDayDate": "2026-07-16",
+      "lastDayCounted": 1,
       "visitorInteractions": {
         "vanilalatte03": {
           "lastInteractionDate": "2026-07-04",
@@ -193,7 +199,7 @@
     },
     "yoru": {
       "firstSeenAt": "2026-07-01T20:02:57.677Z",
-      "maxStage": "teen"
+      "maxStage": "adult"
     }
   }
 }
