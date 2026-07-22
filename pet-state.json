@@ -113,15 +113,15 @@
       "lockedSpecies": "yoru",
       "stage": "adult",
       "bornAt": "2026-07-01T20:02:57.677Z",
-      "lastTickAt": "2026-07-21T19:38:36.811Z",
-      "fullness": 85,
-      "happiness": 96,
-      "stamina": 80,
+      "lastTickAt": "2026-07-22T03:16:58.146Z",
+      "fullness": 78,
+      "happiness": 93,
+      "stamina": 77,
       "mood": "happy",
       "note": {
         "code": "content",
-        "days": 0,
-        "at": "2026-07-21T19:38:36.811Z"
+        "days": 1,
+        "at": "2026-07-22T03:16:58.146Z"
       },
       "log": [
         {
@@ -174,9 +174,9 @@
         "evolution:teen",
         "evolution:adult"
       ],
-      "ageDays": 19,
-      "lastDayDate": "2026-07-21",
-      "lastDayCounted": 1,
+      "ageDays": 20,
+      "lastDayDate": "2026-07-22",
+      "lastDayCounted": 0,
       "visitorInteractions": {
         "vanilalatte03": {
           "lastInteractionDate": "2026-07-04",
