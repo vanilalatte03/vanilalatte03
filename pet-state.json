@@ -113,22 +113,17 @@
       "lockedSpecies": "yoru",
       "stage": "adult",
       "bornAt": "2026-07-01T20:02:57.677Z",
-      "lastTickAt": "2026-07-24T13:55:47.416Z",
-      "fullness": 100,
-      "happiness": 100,
-      "stamina": 100,
+      "lastTickAt": "2026-07-24T19:37:00.504Z",
+      "fullness": 95,
+      "happiness": 98,
+      "stamina": 98,
       "mood": "happy",
       "note": {
-        "code": "happy_collab",
+        "code": "content",
         "days": 0,
-        "at": "2026-07-24T13:55:47.416Z"
+        "at": "2026-07-24T19:37:00.504Z"
       },
       "log": [
-        {
-          "code": "content",
-          "days": 0,
-          "at": "2026-07-20T19:48:53.749Z"
-        },
         {
           "code": "happy_collab",
           "days": 0,
@@ -163,6 +158,11 @@
           "code": "happy_collab",
           "days": 0,
           "at": "2026-07-23T08:37:57.997Z"
+        },
+        {
+          "code": "content",
+          "days": 0,
+          "at": "2026-07-24T19:37:00.504Z"
         }
       ],
       "celebration": null,
