@@ -113,22 +113,17 @@
       "lockedSpecies": "yoru",
       "stage": "adult",
       "bornAt": "2026-07-01T20:02:57.677Z",
-      "lastTickAt": "2026-08-05T10:03:53.004Z",
+      "lastTickAt": "2026-08-05T14:21:12.824Z",
       "fullness": 100,
       "happiness": 100,
       "stamina": 100,
       "mood": "happy",
       "note": {
-        "code": "content",
+        "code": "happy_collab",
         "days": 0,
-        "at": "2026-08-05T10:03:53.004Z"
+        "at": "2026-08-05T14:21:12.824Z"
       },
       "log": [
-        {
-          "code": "happy_collab",
-          "days": 0,
-          "at": "2026-07-26T03:31:41.750Z"
-        },
         {
           "code": "content",
           "days": 0,
@@ -163,14 +158,14 @@
           "code": "content",
           "days": 0,
           "at": "2026-08-05T10:03:53.004Z"
+        },
+        {
+          "code": "happy_collab",
+          "days": 0,
+          "at": "2026-08-05T14:21:12.824Z"
         }
       ],
-      "celebration": {
-        "kind": "visitor",
-        "milestoneId": "visitor:play:2026-08-05:vanilalatte03",
-        "title": "행복 충전!",
-        "detail": "@vanilalatte03님이 같이 놀아줬어요 · 행복도 +8"
-      },
+      "celebration": null,
       "celebratedMilestones": [
         "streak:7",
         "streak:30",
@@ -181,7 +176,7 @@
       ],
       "ageDays": 34,
       "lastDayDate": "2026-08-05",
-      "lastDayCounted": 17,
+      "lastDayCounted": 24,
       "visitorInteractions": {
         "vanilalatte03": {
           "lastInteractionDate": "2026-08-05",
