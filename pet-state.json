@@ -113,15 +113,15 @@
       "lockedSpecies": "yoru",
       "stage": "adult",
       "bornAt": "2026-07-01T20:02:57.677Z",
-      "lastTickAt": "2026-09-16T11:13:26.825Z",
+      "lastTickAt": "2026-09-16T16:33:30.477Z",
       "fullness": 0,
-      "happiness": 56,
-      "stamina": 14,
+      "happiness": 54,
+      "stamina": 12,
       "mood": "sick",
       "note": {
         "code": "sick_exhausted",
         "days": 1,
-        "at": "2026-09-16T11:13:26.825Z"
+        "at": "2026-09-16T16:33:30.477Z"
       },
       "log": [
         {
