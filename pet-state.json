@@ -113,15 +113,15 @@
       "lockedSpecies": "yoru",
       "stage": "adult",
       "bornAt": "2026-07-01T20:02:57.677Z",
-      "lastTickAt": "2026-09-22T13:36:20.667Z",
-      "fullness": 11,
-      "happiness": 19,
+      "lastTickAt": "2026-09-22T16:39:51.812Z",
+      "fullness": 8,
+      "happiness": 18,
       "stamina": 0,
       "mood": "sick",
       "note": {
         "code": "sick_exhausted",
-        "days": 0,
-        "at": "2026-09-22T13:36:20.667Z"
+        "days": 1,
+        "at": "2026-09-22T16:39:51.812Z"
       },
       "log": [
         {
@@ -165,12 +165,7 @@
           "at": "2026-09-21T21:51:34.808Z"
         }
       ],
-      "celebration": {
-        "kind": "visitor",
-        "milestoneId": "visitor:feed:2026-09-22:silverthunder09",
-        "title": "잘 먹었어!",
-        "detail": "@silverthunder09님이 밥을 줬어요 · 포만감 +10"
-      },
+      "celebration": null,
       "celebratedMilestones": [
         "streak:7",
         "streak:30",
