@@ -113,15 +113,15 @@
       "lockedSpecies": "yoru",
       "stage": "adult",
       "bornAt": "2026-07-01T20:02:57.677Z",
-      "lastTickAt": "2026-11-19T00:05:44.981Z",
+      "lastTickAt": "2026-11-19T15:30:45.369Z",
       "fullness": 0,
-      "happiness": 49,
+      "happiness": 44,
       "stamina": 0,
       "mood": "sick",
       "note": {
         "code": "ghost_neglect",
         "days": 7,
-        "at": "2026-11-19T00:05:44.981Z"
+        "at": "2026-11-19T15:30:45.369Z"
       },
       "log": [
         {
