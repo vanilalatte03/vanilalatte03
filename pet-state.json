@@ -113,15 +113,15 @@
       "lockedSpecies": "yoru",
       "stage": "adult",
       "bornAt": "2026-07-01T20:02:57.677Z",
-      "lastTickAt": "2026-11-22T23:27:17.376Z",
+      "lastTickAt": "2026-11-23T06:52:08.202Z",
       "fullness": 0,
-      "happiness": 17,
+      "happiness": 15,
       "stamina": 0,
       "mood": "sick",
       "note": {
         "code": "ghost_neglect",
-        "days": 10,
-        "at": "2026-11-22T23:27:17.376Z"
+        "days": 11,
+        "at": "2026-11-23T06:52:08.202Z"
       },
       "log": [
         {
@@ -175,7 +175,7 @@
         "evolution:adult"
       ],
       "ageDays": 144,
-      "lastDayDate": "2026-11-22",
+      "lastDayDate": "2026-11-23",
       "lastDayCounted": 0,
       "visitorInteractions": {
         "vanilalatte03": {
