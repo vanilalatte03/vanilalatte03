@@ -109,26 +109,21 @@
     "yoru": {
       "name": "Patch",
       "species": "yoru",
-      "isGhost": true,
+      "isGhost": false,
       "lockedSpecies": "yoru",
       "stage": "adult",
       "bornAt": "2026-07-01T20:02:57.677Z",
-      "lastTickAt": "2026-11-23T06:52:08.202Z",
-      "fullness": 0,
-      "happiness": 15,
+      "lastTickAt": "2026-11-23T23:39:22.015Z",
+      "fullness": 21,
+      "happiness": 27,
       "stamina": 0,
       "mood": "sick",
       "note": {
-        "code": "ghost_neglect",
-        "days": 11,
-        "at": "2026-11-23T06:52:08.202Z"
+        "code": "sick_exhausted",
+        "days": 0,
+        "at": "2026-11-23T23:39:22.015Z"
       },
       "log": [
-        {
-          "code": "sick_exhausted",
-          "days": 0,
-          "at": "2026-09-30T12:15:38.180Z"
-        },
         {
           "code": "ghost_neglect",
           "days": 4,
@@ -163,6 +158,11 @@
           "code": "ghost_neglect",
           "days": 4,
           "at": "2026-11-16T05:47:09.355Z"
+        },
+        {
+          "code": "sick_exhausted",
+          "days": 0,
+          "at": "2026-11-23T23:39:22.015Z"
         }
       ],
       "celebration": null,
@@ -174,9 +174,9 @@
         "evolution:teen",
         "evolution:adult"
       ],
-      "ageDays": 144,
+      "ageDays": 145,
       "lastDayDate": "2026-11-23",
-      "lastDayCounted": 0,
+      "lastDayCounted": 3,
       "visitorInteractions": {
         "vanilalatte03": {
           "lastInteractionDate": "2026-08-15",
